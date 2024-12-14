@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "title": "The Avenger",
+        "year": "2020",
+        "genre": "Advanture, Fantasy, Action",
+        "rating": "7.9"
+    },
+    {
+        "id": 2,
+        "title": "Harry Potter",
+        "year": "2007",
+        "genre": "Advanture, Fantasy, Action, magic",
+        "rating": "8.9"
+    },
+    {
+        "id": 3,
+        "title": "The wolf of wall-street",
+        "year": "2013",
+        "genre": "Advanture, Fantasy, Action",
+        "rating": "7.9"
+    },
+    {
+        "id": 4,
+        "title": "Avtar2",
+        "year": "2020",
+        "genre": "Advanture, Fantasy, Action",
+        "rating": "7.9"
+    },
+    {
+        "id": 5,
+        "title": "The Avenger",
+        "year": "2020",
+        "genre": "Advanture, Fantasy, Action",
+        "rating": "7.9"
+    },
+    {
+        "id": 6,
+        "title": "The Avenger",
+        "year": "2020",
+        "genre": "Advanture, Fantasy, Action",
+        "rating": "7.9"
+    },
+    {
+        "id": 7,
+        "title": "The Avenger",
+        "year": "2020",
+        "genre": "Advanture, Fantasy, Action",
+        "rating": "7.9"
+    },
+    {
+        "id": 8,
+        "title": "The Avenger",
+        "year": "2020",
+        "genre": "Advanture, Fantasy, Action",
+        "rating": "7.9"
+    },
+    {
+        "title": "Avtar2",
+        "year": "2020",
+        "genre": "Advanture, Fantasy, Action",
+        "rating": "7.9",
+        "id": "768206fd-5fd3-4695-a5ff-c7ddf203d403"
+    },
+    {
+        "title": "Bhool Bhoolaiya ",
+        "year": "2007",
+        "genre": "Advanture, Fantasy, Action, Drama",
+        "rating": "7.9",
+        "id": "9020f3c8-7029-4e4a-879d-bb8492a7f06d"
+    },
+    {
+        "title": "Bhool Bhoolaiya 2 ",
+        "year": "2022",
+        "genre": "Advanture, Fantasy, Action, Drama",
+        "rating": "7.9",
+        "id": "dabe49b8-72d0-4349-995d-98897f61fc67"
+    },
+    {
+        "title": "Pushpa 2 ",
+        "year": "2024",
+        "genre": "Advanture, Fantasy, Action, Rommance",
+        "rating": "7.9",
+        "id": "45982664-7dcd-4881-a8c7-95a4083d1972"
+    },
+    {
+        "title": "Mission Impossible ",
+        "year": "2000",
+        "genre": "Advanture, Fantasy, Action, Rommance",
+        "rating": "7.9",
+        "id": "b75673b1-ad33-4378-8751-f1eeaddbb321"
+    },
+    {
+        "id": "44e1b5f7-926a-489f-bca1-13f824fe4275",
+        "title": "Mission Impossible: Rough Nation ",
+        "year": "2015",
+        "genre": "Advanture, Fantasy, Action, Rommance",
+        "rating": "8.9"
+    }
+]
